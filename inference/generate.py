@@ -1,3 +1,49 @@
+"""
+═══════════════════════════════════════════════════════════════════════════════
+██╗     ██╗  ██╗██████╗  ██████╗ ██████╗ ██████╗ ███████╗      █████╗ ██╗    
+██║     ╚██╗██╔╝██╔══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝     ██╔══██╗██║    
+██║      ╚███╔╝ ██████╔╝██║     ██║   ██║██████╔╝█████╗ █████╗███████║██║    
+██║      ██╔██╗ ██╔══██╗██║     ██║   ██║██╔══██╗██╔══╝ ╚════╝██╔══██║██║    
+███████╗██╔╝ ██╗██║  ██║╚██████╗╚██████╔╝██║  ██║███████╗     ██║  ██║██║    
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝     ╚═╝  ╚═╝╚═╝    
+                                                                                
+███████╗███████╗███████╗██╗  ██╗                                              
+██╔════╝██╔════╝██╔════╝██║ ██╔╝                                              
+███████╗█████╗  █████╗  █████╔╝                                               
+╚════██║██╔══╝  ██╔══╝  ██╔═██╗                                               
+███████║███████╗███████╗██║  ██╗                                              
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝                                              
+═══════════════════════════════════════════════════════════════════════════════
+🐺 LXRCore-AI-Seek - Text Generation Script
+   Powered by The Land of Wolves 🐺 | მგლების მიწა
+═══════════════════════════════════════════════════════════════════════════════
+
+Description:
+    This script provides text generation capabilities using the LXRCore-AI-Seek
+    model. It supports both interactive chat mode and batch inference on files.
+    
+    The generator implements temperature-based sampling for controlled output
+    generation with support for distributed inference across multiple GPUs.
+
+Framework Support:
+    - LXR-Core (Primary)
+    - RSG-Core (Primary)
+    - VORP Core (Supported)
+
+Version: 1.0.0
+Author: iBoss21 / The Lux Empire
+Website: https://www.wolves.land
+GitHub: https://github.com/iboss21/TheSigma
+
+Original Attribution:
+    Based on DeepSeek-V3 architecture by DeepSeek-AI
+    
+License: MIT (Code) / Model Agreement (Weights)
+Copyright (c) 2025 The Land of Wolves / The Lux Empire
+
+═══════════════════════════════════════════════════════════════════════════════
+"""
+
 import os
 import json
 from argparse import ArgumentParser
@@ -115,7 +161,7 @@ def main(
     with torch.device("cuda"):
         model = Transformer(args)
     tokenizer = AutoTokenizer.from_pretrained(ckpt_path)
-    tokenizer.decode(generate(model, [tokenizer.encode("DeepSeek")], 2, -1, 1.)[0])
+    tokenizer.decode(generate(model, [tokenizer.encode("LXRCore-AI-Seek")], 2, -1, 1.)[0])
     load_model(model, os.path.join(ckpt_path, f"model{rank}-mp{world_size}.safetensors"))
 
     if interactive:

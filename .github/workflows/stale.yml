@@ -1,3 +1,18 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# 🐺 LXRCore-AI-Seek - Stale Issue Management Workflow
+#    Powered by The Land of Wolves 🐺 | მგლების მიწა
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# Description:
+#   Automatically marks and closes stale issues to keep the repository clean
+#   and manageable. Issues are marked stale after 30 days of inactivity and
+#   closed after 14 additional days without activity.
+#
+# Author: iBoss21 / The Lux Empire
+# License: MIT
+# Copyright (c) 2025 The Land of Wolves / The Lux Empire
+# ═══════════════════════════════════════════════════════════════════════════════
+
 name: "Mark and close stale issues"
 on:
   workflow_dispatch:
@@ -6,7 +21,7 @@ on:
 
 jobs:
   stale:
-    if: ${{ github.repository == 'deepseek-ai/DeepSeek-V3' }}
+    if: ${{ github.repository == 'iboss21/TheSigma' }}
     runs-on: ubuntu-latest
     steps:
       - name: "Mark and close stale issues"
@@ -23,7 +38,7 @@ jobs:
             This issue has been automatically marked as stale because it has not had
             recent activity. It will be closed if no further activity occurs. If you
             believe this issue is still relevant, please leave a comment to keep it open.
-            Thank you for your contributions!
+            Thank you for your contributions to The Land of Wolves community!
           close-issue-message: false
           days-before-pr-stale: -1
           days-before-pr-close: -1

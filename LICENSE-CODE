@@ -1,6 +1,12 @@
+═══════════════════════════════════════════════════════════════════════════════
+🐺 LXRCore-AI-Seek - Code License
+   Powered by The Land of Wolves 🐺 | მგლების მიწა
+═══════════════════════════════════════════════════════════════════════════════
+
 MIT License
 
-Copyright (c) 2023 DeepSeek
+Original Work Copyright (c) 2023 DeepSeek
+Modified Work Copyright (c) 2025 The Land of Wolves / The Lux Empire
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +25,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+═══════════════════════════════════════════════════════════════════════════════
+ATTRIBUTION NOTICE
+═══════════════════════════════════════════════════════════════════════════════
+
+This project (LXRCore-AI-Seek) is a rebranded and modified implementation based
+on DeepSeek-V3, developed by DeepSeek-AI. We acknowledge and respect the 
+original authors' contributions to the open-source AI community.
+
+Original Project: DeepSeek-V3
+Original Authors: DeepSeek-AI
+Original Repository: https://github.com/deepseek-ai/DeepSeek-V3
+
+Modified By: iBoss21 / The Lux Empire
+Project: LXRCore-AI-Seek
+Website: https://www.wolves.land
+Repository: https://github.com/iboss21/TheSigma
+
+═══════════════════════════════════════════════════════════════════════════════

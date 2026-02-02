@@ -1,3 +1,51 @@
+"""
+═══════════════════════════════════════════════════════════════════════════════
+██╗     ██╗  ██╗██████╗  ██████╗ ██████╗ ██████╗ ███████╗      █████╗ ██╗    
+██║     ╚██╗██╔╝██╔══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝     ██╔══██╗██║    
+██║      ╚███╔╝ ██████╔╝██║     ██║   ██║██████╔╝█████╗ █████╗███████║██║    
+██║      ██╔██╗ ██╔══██╗██║     ██║   ██║██╔══██╗██╔══╝ ╚════╝██╔══██║██║    
+███████╗██╔╝ ██╗██║  ██║╚██████╗╚██████╔╝██║  ██║███████╗     ██║  ██║██║    
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝     ╚═╝  ╚═╝╚═╝    
+                                                                                
+███████╗███████╗███████╗██╗  ██╗                                              
+██╔════╝██╔════╝██╔════╝██║ ██╔╝                                              
+███████╗█████╗  █████╗  █████╔╝                                               
+╚════██║██╔══╝  ██╔══╝  ██╔═██╗                                               
+███████║███████╗███████╗██║  ██╗                                              
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝                                              
+═══════════════════════════════════════════════════════════════════════════════
+🐺 LXRCore-AI-Seek - Core Model Architecture
+   Powered by The Land of Wolves 🐺 | მგლების მიწა
+═══════════════════════════════════════════════════════════════════════════════
+
+Description:
+    This module implements the core Transformer model architecture for 
+    LXRCore-AI-Seek, including:
+    - Multi-head Latent Attention (MLA) mechanisms
+    - Mixture-of-Experts (MoE) routing and processing
+    - FP8 quantization support for efficient inference
+    - Rotary positional embeddings (RoPE)
+    - Parallel distributed processing capabilities
+
+Framework Support:
+    - LXR-Core (Primary)
+    - RSG-Core (Primary)
+    - VORP Core (Supported)
+
+Version: 1.0.0
+Author: iBoss21 / The Lux Empire
+Website: https://www.wolves.land
+GitHub: https://github.com/iboss21/TheSigma
+
+Original Attribution:
+    Based on DeepSeek-V3 architecture by DeepSeek-AI
+    
+License: MIT (Code) / Model Agreement (Weights)
+Copyright (c) 2025 The Land of Wolves / The Lux Empire
+
+═══════════════════════════════════════════════════════════════════════════════
+"""
+
 import math
 from dataclasses import dataclass
 from typing import Tuple, Optional, Literal

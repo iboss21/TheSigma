@@ -2,114 +2,192 @@
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
 
+```
+═══════════════════════════════════════════════════════════════════════════════
+██╗     ██╗  ██╗██████╗  ██████╗ ██████╗ ██████╗ ███████╗      █████╗ ██╗    
+██║     ╚██╗██╔╝██╔══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝     ██╔══██╗██║    
+██║      ╚███╔╝ ██████╔╝██║     ██║   ██║██████╔╝█████╗ █████╗███████║██║    
+██║      ██╔██╗ ██╔══██╗██║     ██║   ██║██╔══██╗██╔══╝ ╚════╝██╔══██║██║    
+███████╗██╔╝ ██╗██║  ██║╚██████╗╚██████╔╝██║  ██║███████╗     ██║  ██║██║    
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝     ╚═╝  ╚═╝╚═╝    
+                                                                                
+███████╗███████╗███████╗██╗  ██╗                                              
+██╔════╝██╔════╝██╔════╝██║ ██╔╝                                              
+███████╗█████╗  █████╗  █████╔╝                                               
+╚════██║██╔══╝  ██╔══╝  ██╔═██╗                                               
+███████║███████╗███████╗██║  ██╗                                              
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝                                              
+═══════════════════════════════════════════════════════════════════════════════
+🐺 LXRCore-AI-Seek - Advanced AI Language Model System
+   Powered by The Land of Wolves 🐺 | მგლების მიწა
+═══════════════════════════════════════════════════════════════════════════════
+```
+
 <div align="center">
-  <img src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true" width="60%" alt="DeepSeek-V3" />
-</div>
-<hr>
-<div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/"><img alt="Homepage"
-    src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
-  <a href="https://chat.deepseek.com/"><img alt="Chat"
-    src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white"/></a>
-  <a href="https://huggingface.co/deepseek-ai"><img alt="Hugging Face"
-    src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white"/></a>
-  <br>
-  <a href="https://discord.gg/Tc7c45Zzu5"><img alt="Discord"
-    src="https://img.shields.io/badge/Discord-DeepSeek%20AI-7289da?logo=discord&logoColor=white&color=7289da"/></a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/qr.jpeg?raw=true"><img alt="Wechat"
-    src="https://img.shields.io/badge/WeChat-DeepSeek%20AI-brightgreen?logo=wechat&logoColor=white"/></a>
-  <a href="https://twitter.com/deepseek_ai"><img alt="Twitter Follow"
-    src="https://img.shields.io/badge/Twitter-deepseek_ai-white?logo=x&logoColor=white"/></a>
-  <br>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-CODE"><img alt="Code License"
-    src="https://img.shields.io/badge/Code_License-MIT-f5de53?&color=f5de53"/></a>
-  <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/LICENSE-MODEL"><img alt="Model License"
-    src="https://img.shields.io/badge/Model_License-Model_Agreement-f5de53?&color=f5de53"/></a>
-  <br>
-  <a href="https://arxiv.org/pdf/2412.19437"><b>Paper Link</b>👁️</a>
+  <h2>🐺 The Land of Wolves - Georgian RP 🇬🇪</h2>
+  <h3>მგლების მიწა - რჩეულთა ადგილი!</h3>
+  <p><strong>ისტორია ცოცხლდება აქ!</strong> (History Lives Here!)</p>
 </div>
 
-## Table of Contents
+<hr>
+
+<div align="center" style="line-height: 1;">
+  <a href="https://www.wolves.land"><img alt="Homepage"
+    src="https://img.shields.io/badge/🐺%20Homepage-wolves.land-ff6b35?style=for-the-badge&color=ff6b35"/></a>
+  <a href="https://discord.gg/CrKcWdfd3A"><img alt="Discord"
+    src="https://img.shields.io/badge/Discord-Land%20of%20Wolves-7289da?style=for-the-badge&logo=discord&logoColor=white&color=7289da"/></a>
+  <br>
+  <a href="https://github.com/iBoss21"><img alt="GitHub"
+    src="https://img.shields.io/badge/GitHub-iBoss21-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://theluxempire.tebex.io"><img alt="Store"
+    src="https://img.shields.io/badge/Store-Tebex-00b894?style=for-the-badge"/></a>
+  <br>
+  <a href="https://github.com/iboss21/TheSigma/blob/main/LICENSE-CODE"><img alt="Code License"
+    src="https://img.shields.io/badge/Code_License-MIT-f5de53?style=for-the-badge&color=f5de53"/></a>
+  <a href="https://github.com/iboss21/TheSigma/blob/main/LICENSE-MODEL"><img alt="Model License"
+    src="https://img.shields.io/badge/Model_License-Model_Agreement-f5de53?style=for-the-badge&color=f5de53"/></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <p>
+    <strong>🎯 Serious Hardcore Roleplay</strong> | 
+    <strong>🔒 Discord & Whitelisted</strong> | 
+    <strong>🌍 RedM Georgian Server</strong>
+  </p>
+  <p>
+    <a href="https://servers.redm.net/servers/detail/8gj7eb">📊 Server Listing</a>
+  </p>
+</div>
+
+---
+
+## 📚 Table of Contents
 
 1. [Introduction](#1-introduction)
 2. [Model Summary](#2-model-summary)
 3. [Model Downloads](#3-model-downloads)
 4. [Evaluation Results](#4-evaluation-results)
-5. [Chat Website & API Platform](#5-chat-website--api-platform)
+5. [Platform Information](#5-platform-information)
 6. [How to Run Locally](#6-how-to-run-locally)
 7. [License](#7-license)
 8. [Citation](#8-citation)
 9. [Contact](#9-contact)
 
+---
 
-## 1. Introduction
+## 1. 🚀 Introduction
 
-We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. 
-To achieve efficient inference and cost-effective training, DeepSeek-V3 adopts Multi-head Latent Attention (MLA) and DeepSeekMoE architectures, which were thoroughly validated in DeepSeek-V2. 
-Furthermore, DeepSeek-V3 pioneers an auxiliary-loss-free strategy for load balancing and sets a multi-token prediction training objective for stronger performance. 
-We pre-train DeepSeek-V3 on 14.8 trillion diverse and high-quality tokens, followed by Supervised Fine-Tuning and Reinforcement Learning stages to fully harness its capabilities. 
-Comprehensive evaluations reveal that DeepSeek-V3 outperforms other open-source models and achieves performance comparable to leading closed-source models.
-Despite its excellent performance, DeepSeek-V3 requires only 2.788M H800 GPU hours for its full training.
-In addition, its training process is remarkably stable. 
-Throughout the entire training process, we did not experience any irrecoverable loss spikes or perform any rollbacks. 
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ LXRCORE-AI-SEEK OVERVIEW
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+**LXRCore-AI-Seek** is a powerful, rebranded implementation of advanced AI language model technology, optimized and branded for **The Land of Wolves 🐺** ecosystem. This project represents a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.
+
+### 🎯 Key Features
+
+- **Multi-head Latent Attention (MLA)** architecture for efficient processing
+- **Mixture-of-Experts (MoE)** design for optimal resource utilization
+- **Auxiliary-loss-free strategy** for superior load balancing
+- **Multi-token prediction** training objective for enhanced performance
+- **14.8 trillion tokens** of pre-training data
+- **Supervised Fine-Tuning** and **Reinforcement Learning** stages
+- **Exceptional stability** throughout training (no loss spikes or rollbacks)
+- **Cost-effective training**: Only 2.788M H800 GPU hours for full training
+
+### 🐺 Land of Wolves Integration
+
+This model is specifically adapted for integration with:
+- **LXR-Core** (Primary Framework)
+- **RSG-Core** (Primary Framework)
+- **VORP Core** (Supported/Legacy)
+
+The model achieves performance comparable to leading closed-source models while maintaining the open-source ethos of The Land of Wolves community. 
 <p align="center">
   <img width="80%" src="figures/benchmark.png">
 </p>
 
-## 2. Model Summary
+---
+
+## 2. 📊 Model Summary
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ ARCHITECTURE & TRAINING INNOVATIONS
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+### **🏗️ Architecture: Innovative Load Balancing Strategy and Training Objective**
+
+- Built on the efficient MoE architecture with **auxiliary-loss-free load balancing strategy**
+- Minimizes performance degradation that arises from load balancing requirements
+- **Multi-Token Prediction (MTP)** objective for enhanced model performance
+- MTP can be leveraged for speculative decoding to accelerate inference
+
+### **⚡ Pre-Training: Ultimate Training Efficiency**
+
+- **FP8 mixed precision training framework** validated at extreme scale
+- Novel co-design of algorithms, frameworks, and hardware
+- Overcomes cross-node MoE communication bottlenecks
+- Near-complete computation-communication overlap
+- **Cost-effective**: Only 2.664M H800 GPU hours for 14.8T token pre-training
+- Post-training stages require minimal 0.1M GPU hours
+
+### **🎓 Post-Training: Advanced Knowledge Distillation**
+
+- Innovative methodology for distilling reasoning capabilities from long-Chain-of-Thought (CoT) models
+- Incorporates verification and reflection patterns for improved reasoning
+- Maintains control over output style and length
+- Enhanced performance without sacrificing usability
 
 ---
 
-**Architecture: Innovative Load Balancing Strategy and Training Objective**
+## 3. 📥 Model Downloads
 
-- On top of the efficient architecture of DeepSeek-V2, we pioneer an auxiliary-loss-free strategy for load balancing, which minimizes the performance degradation that arises from encouraging load balancing.
--  We investigate a Multi-Token Prediction (MTP) objective and prove it beneficial to model performance. 
-    It can also be used for speculative decoding for inference acceleration. 
-
----
-
-**Pre-Training: Towards Ultimate Training Efficiency**
-
-- We design an FP8 mixed precision training framework and, for the first time, validate the feasibility and effectiveness of FP8 training on an extremely large-scale model.  
-- Through co-design of algorithms, frameworks, and hardware, we overcome the communication bottleneck in cross-node MoE training, nearly achieving full computation-communication overlap.  
-  This significantly enhances our training efficiency and reduces the training costs, enabling us to further scale up the model size without additional overhead.  
-- At an economical cost of only 2.664M H800 GPU hours, we complete the pre-training of DeepSeek-V3 on 14.8T tokens, producing the currently strongest open-source base model. The subsequent training stages after pre-training require only 0.1M GPU hours.
-
----
-
-**Post-Training: Knowledge Distillation from DeepSeek-R1**
-
--   We introduce an innovative methodology to distill reasoning capabilities from the long-Chain-of-Thought (CoT) model, specifically from one of the DeepSeek R1 series models, into standard LLMs, particularly DeepSeek-V3. Our pipeline elegantly incorporates the verification and reflection patterns of R1 into DeepSeek-V3 and notably improves its reasoning performance. Meanwhile, we also maintain a control over the output style and length of DeepSeek-V3.
-
----
-
-
-## 3. Model Downloads
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ MODEL WEIGHTS & DOWNLOADS
+═══════════════════════════════════════════════════════════════════════════════
+```
 
 <div align="center">
 
-| **Model** | **#Total Params** | **#Activated Params** | **Context Length** | **Download** |
+| **Model** | **#Total Params** | **#Activated Params** | **Context Length** | **Original Source** |
 | :------------: | :------------: | :------------: | :------------: | :------------: |
-| DeepSeek-V3-Base | 671B | 37B | 128K   | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base)   |
-| DeepSeek-V3   | 671B | 37B |  128K   | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3)   |
+| LXRCore-AI-Seek-Base | 671B | 37B | 128K   | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3-Base)   |
+| LXRCore-AI-Seek   | 671B | 37B |  128K   | [🤗 Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V3)   |
 
 </div>
 
 > [!NOTE]
-> The total size of DeepSeek-V3 models on Hugging Face is 685B, which includes 671B of the Main Model weights and 14B of the Multi-Token Prediction (MTP) Module weights.
+> The total size of LXRCore-AI-Seek models on Hugging Face is 685B, which includes 671B of the Main Model weights and 14B of the Multi-Token Prediction (MTP) Module weights.
+> 
+> **Original Model Attribution**: This model is based on DeepSeek-V3, rebranded and optimized for The Land of Wolves ecosystem. We acknowledge and respect the original DeepSeek-AI team's work.
 
-To ensure optimal performance and flexibility, we have partnered with open-source communities and hardware vendors to provide multiple ways to run the model locally. For step-by-step guidance, check out Section 6: [How_to Run_Locally](#6-how-to-run-locally).
+To ensure optimal performance and flexibility, we have partnered with open-source communities and hardware vendors to provide multiple ways to run the model locally. For step-by-step guidance, check out Section 6: [How to Run Locally](#6-how-to-run-locally).
 
 For developers looking to dive deeper, we recommend exploring [README_WEIGHTS.md](./README_WEIGHTS.md) for details on the Main Model weights and the Multi-Token Prediction (MTP) Modules. Please note that MTP support is currently under active development within the community, and we welcome your contributions and feedback.
 
-## 4. Evaluation Results
+---
+
+## 4. 📈 Evaluation Results
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ BENCHMARK PERFORMANCE METRICS
+═══════════════════════════════════════════════════════════════════════════════
+```
+
 ### Base Model
 #### Standard Benchmarks
 
 <div align="center">
 
 
-|  | Benchmark (Metric) | # Shots | DeepSeek-V2 | Qwen2.5 72B | LLaMA3.1 405B | DeepSeek-V3 |
+|  | Benchmark (Metric) | # Shots | DeepSeek-V2 | Qwen2.5 72B | LLaMA3.1 405B | LXRCore-AI-Seek |
 |---|-------------------|----------|--------|-------------|---------------|---------|
 | | Architecture | - | MoE | Dense | Dense | MoE |
 | | # Activated Params | - | 21B | 72B | 405B | 37B |
@@ -150,21 +228,22 @@ For developers looking to dive deeper, we recommend exploring [README_WEIGHTS.md
 </div>
 
 > [!NOTE]
-> Best results are shown in bold. Scores with a gap not exceeding 0.3 are considered to be at the same level. DeepSeek-V3 achieves the best performance on most benchmarks, especially on math and code tasks.
-> For more evaluation details, please check our paper. 
+> Best results are shown in bold. Scores with a gap not exceeding 0.3 are considered to be at the same level. LXRCore-AI-Seek achieves the best performance on most benchmarks, especially on math and code tasks.
+> 
+> **Original Model**: Based on DeepSeek-V3 architecture and training methodology.
 
 #### Context Window
 <p align="center">
   <img width="80%" src="figures/niah.png">
 </p>
 
-Evaluation results on the ``Needle In A Haystack`` (NIAH) tests.  DeepSeek-V3 performs well across all context window lengths up to **128K**. 
+Evaluation results on the ``Needle In A Haystack`` (NIAH) tests. LXRCore-AI-Seek performs well across all context window lengths up to **128K**. 
 
 ### Chat Model
 #### Standard Benchmarks (Models larger than 67B)
 <div align="center">
 
-| | **Benchmark (Metric)** | **DeepSeek V2-0506** | **DeepSeek V2.5-0905** | **Qwen2.5 72B-Inst.** | **Llama3.1 405B-Inst.** | **Claude-3.5-Sonnet-1022** | **GPT-4o 0513** | **DeepSeek V3** |
+| | **Benchmark (Metric)** | **DeepSeek V2-0506** | **DeepSeek V2.5-0905** | **Qwen2.5 72B-Inst.** | **Llama3.1 405B-Inst.** | **Claude-3.5-Sonnet-1022** | **GPT-4o 0513** | **LXRCore-AI-Seek** |
 |---|---------------------|---------------------|----------------------|---------------------|----------------------|---------------------------|----------------|----------------|
 | | Architecture | MoE | MoE | Dense | Dense | - | - | MoE |
 | | # Activated Params | 21B | 21B | 72B | 405B | - | - | 37B |
@@ -195,7 +274,7 @@ Evaluation results on the ``Needle In A Haystack`` (NIAH) tests.  DeepSeek-V3 pe
 </div>
 
 > [!NOTE]
-> All models are evaluated in a configuration that limits the output length to 8K. Benchmarks containing fewer than 1000 samples are tested multiple times using varying temperature settings to derive robust final results. DeepSeek-V3 stands as the best-performing open-source model, and also exhibits competitive performance against frontier closed-source models.
+> All models are evaluated in a configuration that limits the output length to 8K. Benchmarks containing fewer than 1000 samples are tested multiple times using varying temperature settings to derive robust final results. LXRCore-AI-Seek stands as a best-performing implementation, and exhibits competitive performance against frontier closed-source models.
 
 
 ####  Open Ended Generation Evaluation
@@ -211,31 +290,68 @@ Evaluation results on the ``Needle In A Haystack`` (NIAH) tests.  DeepSeek-V3 pe
 | LLaMA-3.1 405B | 69.3 | 40.5 |
 | GPT-4o-0513 | 80.4 | 51.1 |
 | Claude-Sonnet-3.5-1022 | 85.2 | 52.0 |
-| DeepSeek-V3 | **85.5** | **70.0** |
+| LXRCore-AI-Seek | **85.5** | **70.0** |
 
 </div>
 
 > [!NOTE]
 > English open-ended conversation evaluations. For AlpacaEval 2.0, we use the length-controlled win rate as the metric.
 
+---
 
-## 5. Chat Website & API Platform
-You can chat with DeepSeek-V3 on DeepSeek's official website: [chat.deepseek.com](https://chat.deepseek.com/sign_in)
+## 5. 🐺 Platform Information
 
-We also provide OpenAI-Compatible API at DeepSeek Platform: [platform.deepseek.com](https://platform.deepseek.com/)
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ THE LAND OF WOLVES COMMUNITY
+═══════════════════════════════════════════════════════════════════════════════
+```
 
-## 6. How to Run Locally
+### 🌍 Server Information
 
-DeepSeek-V3 can be deployed locally using the following hardware and open-source community software:
+**The Land of Wolves 🐺** - Georgian RP 🇬🇪  
+**მგლების მიწა - რჩეულთა ადგილი!**  
+**ისტორია ცოცხლდება აქ!** (History Lives Here!)
 
-1. **DeepSeek-Infer Demo**: We provide a simple and lightweight demo for FP8 and BF16 inference.
-2. **SGLang**: Fully support the DeepSeek-V3 model in both BF16 and FP8 inference modes, with Multi-Token Prediction [coming soon](https://github.com/sgl-project/sglang/issues/2591).
+- **Type**: Serious Hardcore Roleplay
+- **Access**: Discord & Whitelisted
+- **Website**: [https://www.wolves.land](https://www.wolves.land)
+- **Discord**: [https://discord.gg/CrKcWdfd3A](https://discord.gg/CrKcWdfd3A)
+- **GitHub**: [https://github.com/iBoss21](https://github.com/iBoss21)
+- **Store**: [https://theluxempire.tebex.io](https://theluxempire.tebex.io)
+- **Server Listing**: [RedM Servers](https://servers.redm.net/servers/detail/8gj7eb)
+- **Developer**: iBoss21 / The Lux Empire
+
+### 🎯 Framework Support
+
+- **LXR-Core** (Primary Framework)
+- **RSG-Core** (Primary Framework)
+- **VORP Core** (Supported/Legacy)
+- Additional framework support available upon request
+
+> [!NOTE]
+> **Original Model Attribution**: LXRCore-AI-Seek is based on DeepSeek-V3, which provides chat functionality and API services at [chat.deepseek.com](https://chat.deepseek.com/sign_in) and [platform.deepseek.com](https://platform.deepseek.com/). This project is a rebranded implementation for The Land of Wolves ecosystem.
+
+---
+
+## 6. 🚀 How to Run Locally
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ LOCAL DEPLOYMENT OPTIONS
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+LXRCore-AI-Seek can be deployed locally using the following hardware and open-source community software:
+
+1. **LXRCore-AI-Seek Infer Demo**: Simple and lightweight demo for FP8 and BF16 inference.
+2. **SGLang**: Full support for the model in both BF16 and FP8 inference modes, with Multi-Token Prediction [coming soon](https://github.com/sgl-project/sglang/issues/2591).
 3. **LMDeploy**: Enables efficient FP8 and BF16 inference for local and cloud deployment.
 4. **TensorRT-LLM**: Currently supports BF16 inference and INT4/8 quantization, with FP8 support coming soon.
-5. **vLLM**: Support DeepSeek-V3 model with FP8 and BF16 modes for tensor parallelism and pipeline parallelism.
+5. **vLLM**: Supports the model with FP8 and BF16 modes for tensor parallelism and pipeline parallelism.
 6. **LightLLM**: Supports efficient single-node or multi-node deployment for FP8 and BF16.
-7. **AMD GPU**: Enables running the DeepSeek-V3 model on AMD GPUs via SGLang in both BF16 and FP8 modes.
-8. **Huawei Ascend NPU**: Supports running DeepSeek-V3 on Huawei Ascend devices in both INT8 and BF16.
+7. **AMD GPU**: Enables running the model on AMD GPUs via SGLang in both BF16 and FP8 modes.
+8. **Huawei Ascend NPU**: Supports running the model on Huawei Ascend devices in both INT8 and BF16.
 
 Since FP8 training is natively adopted in our framework, we only provide FP8 weights. If you require BF16 weights for experimentation, you can use the provided conversion script to perform the transformation.
 
@@ -249,7 +365,7 @@ python fp8_cast_bf16.py --input-fp8-hf-path /path/to/fp8_weights --output-bf16-h
 > [!NOTE]
 > Hugging Face's Transformers has not been directly supported yet.
 
-### 6.1 Inference with DeepSeek-Infer Demo (example only)
+### 6.1 Inference with LXRCore-AI-Seek Infer Demo (example only)
 
 #### System Requirements
 
@@ -265,48 +381,49 @@ safetensors==0.4.5
 ```
 #### Model Weights & Demo Code Preparation
 
-First, clone our DeepSeek-V3 GitHub repository:
+First, clone the LXRCore-AI-Seek GitHub repository:
 
 ```shell
-git clone https://github.com/deepseek-ai/DeepSeek-V3.git
+git clone https://github.com/iboss21/TheSigma.git
+cd TheSigma
 ```
 
 Navigate to the `inference` folder and install dependencies listed in `requirements.txt`. Easiest way is to use a package manager like `conda` or `uv` to create a new virtual environment and install the dependencies.
 
 ```shell
-cd DeepSeek-V3/inference
+cd inference
 pip install -r requirements.txt
 ```
 
-Download the model weights from Hugging Face, and put them into `/path/to/DeepSeek-V3` folder.
+Download the model weights from Hugging Face (using original DeepSeek-V3 weights), and put them into `/path/to/LXRCore-AI-Seek` folder.
 
 #### Model Weights Conversion
 
 Convert Hugging Face model weights to a specific format:
 
 ```shell
-python convert.py --hf-ckpt-path /path/to/DeepSeek-V3 --save-path /path/to/DeepSeek-V3-Demo --n-experts 256 --model-parallel 16
+python convert.py --hf-ckpt-path /path/to/LXRCore-AI-Seek --save-path /path/to/LXRCore-AI-Seek-Demo --n-experts 256 --model-parallel 16
 ```
 
 #### Run
 
-Then you can chat with DeepSeek-V3:
+Then you can interact with LXRCore-AI-Seek:
 
 ```shell
-torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR generate.py --ckpt-path /path/to/DeepSeek-V3-Demo --config configs/config_671B.json --interactive --temperature 0.7 --max-new-tokens 200
+torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR generate.py --ckpt-path /path/to/LXRCore-AI-Seek-Demo --config configs/config_671B.json --interactive --temperature 0.7 --max-new-tokens 200
 ```
 
 Or batch inference on a given file:
 
 ```shell
-torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR generate.py --ckpt-path /path/to/DeepSeek-V3-Demo --config configs/config_671B.json --input-file $FILE
+torchrun --nnodes 2 --nproc-per-node 8 --node-rank $RANK --master-addr $ADDR generate.py --ckpt-path /path/to/LXRCore-AI-Seek-Demo --config configs/config_671B.json --input-file $FILE
 ```
 
 ### 6.2 Inference with SGLang (recommended)
 
 [SGLang](https://github.com/sgl-project/sglang) currently supports [MLA optimizations](https://lmsys.org/blog/2024-09-04-sglang-v0-3/#deepseek-multi-head-latent-attention-mla-throughput-optimizations), [DP Attention](https://lmsys.org/blog/2024-12-04-sglang-v0-4/#data-parallelism-attention-for-deepseek-models), FP8 (W8A8), FP8 KV Cache, and Torch Compile, delivering state-of-the-art latency and throughput performance among open-source frameworks.
 
-Notably, [SGLang v0.4.1](https://github.com/sgl-project/sglang/releases/tag/v0.4.1) fully supports running DeepSeek-V3 on both **NVIDIA and AMD GPUs**, making it a highly versatile and robust solution.
+Notably, [SGLang v0.4.1](https://github.com/sgl-project/sglang/releases/tag/v0.4.1) fully supports running the underlying model architecture on both **NVIDIA and AMD GPUs**, making it a highly versatile and robust solution.
 
 SGLang also supports [multi-node tensor parallelism](https://github.com/sgl-project/sglang/tree/main/benchmark/deepseek_v3#example-serving-with-2-h208), enabling you to run this model on multiple network-connected machines.
 
@@ -315,36 +432,73 @@ Multi-Token Prediction (MTP) is in development, and progress can be tracked in t
 Here are the launch instructions from the SGLang team: https://github.com/sgl-project/sglang/tree/main/benchmark/deepseek_v3
 
 ### 6.3 Inference with LMDeploy (recommended)
-[LMDeploy](https://github.com/InternLM/lmdeploy), a flexible and high-performance inference and serving framework tailored for large language models, now supports DeepSeek-V3. It offers both offline pipeline processing and online deployment capabilities, seamlessly integrating with PyTorch-based workflows.
+[LMDeploy](https://github.com/InternLM/lmdeploy), a flexible and high-performance inference and serving framework tailored for large language models, supports the underlying architecture. It offers both offline pipeline processing and online deployment capabilities, seamlessly integrating with PyTorch-based workflows.
 
-For comprehensive step-by-step instructions on running DeepSeek-V3 with LMDeploy, please refer to here: https://github.com/InternLM/lmdeploy/issues/2960
+For comprehensive step-by-step instructions, please refer to: https://github.com/InternLM/lmdeploy/issues/2960
 
 
 ### 6.4 Inference with TRT-LLM (recommended)
 
-[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) now supports the DeepSeek-V3 model, offering precision options such as BF16 and INT4/INT8 weight-only. Support for FP8 is currently in progress and will be released soon. You can access the custom branch of TRTLLM specifically for DeepSeek-V3 support through the following link to experience the new features directly: https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/deepseek_v3. 
+[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) supports the model architecture, offering precision options such as BF16 and INT4/INT8 weight-only. Support for FP8 is currently in progress and will be released soon. You can access the custom branch of TRTLLM specifically for DeepSeek-V3 support through the following link: https://github.com/NVIDIA/TensorRT-LLM/tree/main/examples/deepseek_v3. 
 
 
 ### 6.5 Inference with vLLM (recommended)
 
-[vLLM](https://github.com/vllm-project/vllm) v0.6.6 supports DeepSeek-V3 inference for FP8 and BF16 modes on both NVIDIA and AMD GPUs. Aside from standard techniques, vLLM offers _pipeline parallelism_ allowing you to run this model on multiple machines connected by networks. For detailed guidance, please refer to the [vLLM instructions](https://docs.vllm.ai/en/latest/serving/distributed_serving.html). Please feel free to follow [the enhancement plan](https://github.com/vllm-project/vllm/issues/11539) as well.
+[vLLM](https://github.com/vllm-project/vllm) v0.6.6 supports the model architecture for FP8 and BF16 modes on both NVIDIA and AMD GPUs. Aside from standard techniques, vLLM offers _pipeline parallelism_ allowing you to run this model on multiple machines connected by networks. For detailed guidance, please refer to the [vLLM instructions](https://docs.vllm.ai/en/latest/serving/distributed_serving.html). Please feel free to follow [the enhancement plan](https://github.com/vllm-project/vllm/issues/11539) as well.
 
 ### 6.6 Inference with LightLLM (recommended)
 
-[LightLLM](https://github.com/ModelTC/lightllm/tree/main) v1.0.1 supports single-machine and multi-machine tensor parallel deployment for DeepSeek-R1 (FP8/BF16) and provides mixed-precision deployment, with more quantization modes continuously integrated. For more details, please refer to [LightLLM instructions](https://lightllm-en.readthedocs.io/en/latest/getting_started/quickstart.html). Additionally, LightLLM offers PD-disaggregation deployment for DeepSeek-V2, and the implementation of PD-disaggregation for DeepSeek-V3 is in development.
+[LightLLM](https://github.com/ModelTC/lightllm/tree/main) v1.0.1 supports single-machine and multi-machine tensor parallel deployment for the model architecture (FP8/BF16) and provides mixed-precision deployment, with more quantization modes continuously integrated. For more details, please refer to [LightLLM instructions](https://lightllm-en.readthedocs.io/en/latest/getting_started/quickstart.html).
 
 ### 6.7 Recommended Inference Functionality with AMD GPUs
 
-In collaboration with the AMD team, we have achieved Day-One support for AMD GPUs using SGLang, with full compatibility for both FP8 and BF16 precision. For detailed guidance, please refer to the [SGLang instructions](#63-inference-with-lmdeploy-recommended).
+The model architecture has Day-One support for AMD GPUs using SGLang, with full compatibility for both FP8 and BF16 precision. For detailed guidance, please refer to the [SGLang instructions](#62-inference-with-sglang-recommended).
 
 ### 6.8 Recommended Inference Functionality with Huawei Ascend NPUs
-The [MindIE](https://www.hiascend.com/en/software/mindie) framework from the Huawei Ascend community has successfully adapted the BF16 version of DeepSeek-V3. For step-by-step guidance on Ascend NPUs, please follow the [instructions here](https://modelers.cn/models/MindIE/deepseekv3).
+The [MindIE](https://www.hiascend.com/en/software/mindie) framework from the Huawei Ascend community has successfully adapted the BF16 version of the underlying architecture. For step-by-step guidance on Ascend NPUs, please follow the [instructions here](https://modelers.cn/models/MindIE/deepseekv3).
 
+---
 
-## 7. License
-This code repository is licensed under [the MIT License](LICENSE-CODE). The use of DeepSeek-V3 Base/Chat models is subject to [the Model License](LICENSE-MODEL). DeepSeek-V3 series (including Base and Chat) supports commercial use.
+## 7. 📄 License
 
-## 8. Citation
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ LICENSE INFORMATION
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+This code repository is licensed under [the MIT License](LICENSE-CODE). 
+
+The use of LXRCore-AI-Seek Base/Chat models is subject to [the Model License](LICENSE-MODEL). 
+
+LXRCore-AI-Seek series (including Base and Chat) supports commercial use within The Land of Wolves ecosystem and compatible frameworks.
+
+**Original Model Attribution**: This project is based on DeepSeek-V3 architecture. We acknowledge and respect the original DeepSeek-AI team's contributions to the open-source AI community.
+
+---
+
+## 8. 📝 Citation
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ CITATION & ATTRIBUTION
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+If you use LXRCore-AI-Seek in your research or projects, please cite both this project and the original DeepSeek-V3:
+
+### LXRCore-AI-Seek Citation
+```
+@software{lxrcore_ai_seek_2025,
+  title={LXRCore-AI-Seek: Advanced AI Language Model for The Land of Wolves},
+  author={iBoss21 and The Lux Empire},
+  year={2025},
+  url={https://github.com/iboss21/TheSigma},
+  note={Based on DeepSeek-V3 architecture}
+}
+```
+
+### Original DeepSeek-V3 Citation
 ```
 @misc{deepseekai2024deepseekv3technicalreport,
       title={DeepSeek-V3 Technical Report}, 
@@ -357,5 +511,39 @@ This code repository is licensed under [the MIT License](LICENSE-CODE). The use 
 }
 ```
 
-## 9. Contact
-If you have any questions, please raise an issue or contact us at [service@deepseek.com](service@deepseek.com).
+---
+
+## 9. 📧 Contact
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ GET IN TOUCH
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+### The Land of Wolves 🐺 Community
+
+For questions, support, or collaboration opportunities:
+
+- **Discord Community**: [https://discord.gg/CrKcWdfd3A](https://discord.gg/CrKcWdfd3A)
+- **GitHub Issues**: [https://github.com/iboss21/TheSigma/issues](https://github.com/iboss21/TheSigma/issues)
+- **Website**: [https://www.wolves.land](https://www.wolves.land)
+- **Developer**: iBoss21 / The Lux Empire
+- **Store**: [https://theluxempire.tebex.io](https://theluxempire.tebex.io)
+
+### Server Information
+
+Join **The Land of Wolves** - Georgian RP Server:
+- **Server Listing**: [https://servers.redm.net/servers/detail/8gj7eb](https://servers.redm.net/servers/detail/8gj7eb)
+- **Type**: Serious Hardcore Roleplay
+- **Access**: Discord & Whitelisted
+
+---
+
+<div align="center">
+  <p><strong>🐺 მგლების მიწა - რჩეულთა ადგილი! 🐺</strong></p>
+  <p><em>History Lives Here - The Land of Wolves</em></p>
+  <br>
+  <p>Made with ❤️ by iBoss21 & The Lux Empire</p>
+  <p>Powered by The Land of Wolves Community</p>
+</div>

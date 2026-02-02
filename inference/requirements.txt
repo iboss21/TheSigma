@@ -1,3 +1,23 @@
+# ═══════════════════════════════════════════════════════════════════════════════
+# 🐺 LXRCore-AI-Seek - Python Dependencies
+#    Powered by The Land of Wolves 🐺 | მგლების მიწა
+# ═══════════════════════════════════════════════════════════════════════════════
+#
+# Description:
+#   Required Python packages for running LXRCore-AI-Seek inference scripts.
+#   These dependencies enable FP8/BF16 inference, model loading, and GPU
+#   acceleration via Triton kernels.
+#
+# Installation:
+#   pip install -r requirements.txt
+#
+# Note: Linux with Python 3.10+ required. Mac and Windows are not supported.
+#
+# Author: iBoss21 / The Lux Empire
+# License: MIT
+# Copyright (c) 2025 The Land of Wolves / The Lux Empire
+# ═══════════════════════════════════════════════════════════════════════════════
+
 torch==2.4.1
 triton==3.0.0
 transformers==4.46.3

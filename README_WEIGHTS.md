@@ -1,16 +1,43 @@
-# DeepSeek-V3 Weight File Documentation
+```
+═══════════════════════════════════════════════════════════════════════════════
+██╗     ██╗  ██╗██████╗  ██████╗ ██████╗ ██████╗ ███████╗      █████╗ ██╗    
+██║     ╚██╗██╔╝██╔══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝     ██╔══██╗██║    
+██║      ╚███╔╝ ██████╔╝██║     ██║   ██║██████╔╝█████╗ █████╗███████║██║    
+██║      ██╔██╗ ██╔══██╗██║     ██║   ██║██╔══██╗██╔══╝ ╚════╝██╔══██║██║    
+███████╗██╔╝ ██╗██║  ██║╚██████╗╚██████╔╝██║  ██║███████╗     ██║  ██║██║    
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝     ╚═╝  ╚═╝╚═╝    
+                                                                                
+███████╗███████╗███████╗██╗  ██╗                                              
+██╔════╝██╔════╝██╔════╝██║ ██╔╝                                              
+███████╗█████╗  █████╗  █████╔╝                                               
+╚════██║██╔══╝  ██╔══╝  ██╔═██╗                                               
+███████║███████╗███████╗██║  ██╗                                              
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝                                              
+═══════════════════════════════════════════════════════════════════════════════
+🐺 Weight File Documentation
+   Powered by The Land of Wolves 🐺 | მგლების მიწა
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+# LXRCore-AI-Seek Weight File Documentation
+
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ MODEL CONFIGURATION & WEIGHT STRUCTURE
+═══════════════════════════════════════════════════════════════════════════════
+```
 
 ## New Fields in `config.json`
 
-- **model_type**: Specifies the model type, which is updated to `deepseek_v3` in this release.
-- **num_nextn_predict_layers**: Indicates the number of Multi-Token Prediction (MTP) Modules. The open-sourced V3 weights include **1 MTP Module** .
+- **model_type**: Specifies the model type, which is updated to `deepseek_v3` in the underlying architecture.
+- **num_nextn_predict_layers**: Indicates the number of Multi-Token Prediction (MTP) Modules. The open-sourced weights include **1 MTP Module**.
 - **quantization_config**: Describes the configuration for FP8 quantization.
 
 ---
 
 ## Weight Structure Overview
 
-The DeepSeek-V3 weight file consists of two main components: **Main Model Weights** and **MTP Modules**.
+The LXRCore-AI-Seek weight file consists of two main components: **Main Model Weights** and **MTP Modules**.
 
 ### 1. Main Model Weights
 
@@ -59,7 +86,13 @@ The DeepSeek-V3 weight file consists of two main components: **Main Model Weight
 
 ## FP8 Weight Documentation
 
-DeepSeek-V3 natively supports FP8 weight format with 128x128 block scaling.
+```
+═══════════════════════════════════════════════════════════════════════════════
+█████ FP8 QUANTIZATION CONFIGURATION
+═══════════════════════════════════════════════════════════════════════════════
+```
+
+LXRCore-AI-Seek natively supports FP8 weight format with 128x128 block scaling.
 
 ### FP8 Configuration
 
@@ -92,3 +125,15 @@ The FP8 weight file includes a `weight_scale_inv` field, which stores the dequan
 Through dequantization of the FP8 weights, runtime operations enable online quantization at a granularity of `per-token-per-128-channel`.
 
 ---
+
+## Attribution
+
+> [!NOTE]
+> **Original Model**: This documentation is based on DeepSeek-V3 architecture. LXRCore-AI-Seek is a rebranded implementation for The Land of Wolves ecosystem while maintaining full compatibility with the original model architecture.
+
+---
+
+<div align="center">
+  <p><strong>🐺 The Land of Wolves - Georgian RP 🇬🇪</strong></p>
+  <p>Made with ❤️ by iBoss21 & The Lux Empire</p>
+</div>
